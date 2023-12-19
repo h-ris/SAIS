@@ -1,5 +1,9 @@
 # SAIS Project Overview
 
+
+Welcome! This is an overview of my School Admin Info System (SAIS) page!
+
+
 ![image](https://github.com/h-ris/SAIS/assets/95009925/acdf7821-e561-4ac2-bf5d-207529c891df) ![image](https://github.com/h-ris/SAIS/assets/95009925/5281afb2-4b0c-4f12-ba5a-be7fed330458)
 
 login validation page
