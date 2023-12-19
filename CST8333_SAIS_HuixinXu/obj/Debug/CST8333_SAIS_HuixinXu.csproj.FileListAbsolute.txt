@@ -1,0 +1,30 @@
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\bin\Debug\CST8333_SAIS_HuixinXu.exe.config
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\bin\Debug\CST8333_SAIS_HuixinXu.exe
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\bin\Debug\CST8333_SAIS_HuixinXu.pdb
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.csproj.AssemblyReference.cache
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.Properties.Resources.resources
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.csproj.GenerateResource.cache
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.csproj.CoreCompileInputs.cache
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.exe
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.pdb
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.LoginForm.resources
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.StartPage.resources
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.MainForm.resources
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.AddStudentsForm.resources
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.AddTeachersForm.resources
+C:\Users\Ris\source\repos\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.DashboardForm.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\bin\Debug\CST8333_SAIS_HuixinXu.exe.config
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\bin\Debug\CST8333_SAIS_HuixinXu.exe
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\bin\Debug\CST8333_SAIS_HuixinXu.pdb
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.csproj.AssemblyReference.cache
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.AddStudentsForm.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.AddTeachersForm.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.DashboardForm.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.LoginForm.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.MainForm.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.StartPage.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.Properties.Resources.resources
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.csproj.GenerateResource.cache
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.csproj.CoreCompileInputs.cache
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.exe
+C:\Algonquin College\CST8333\CST8333_SAIS_HuixinXu\CST8333_SAIS_HuixinXu\obj\Debug\CST8333_SAIS_HuixinXu.pdb
